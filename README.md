@@ -8,3 +8,4 @@
 FaizanRawther/FaizanRawther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Data visualization assignment.pdf](https://github.com/FaizanRawther/FaizanRawther/files/9735171/Data.visualization.assignment.pdf)
